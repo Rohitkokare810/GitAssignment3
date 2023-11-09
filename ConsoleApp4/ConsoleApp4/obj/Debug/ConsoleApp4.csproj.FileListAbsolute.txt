@@ -1,0 +1,7 @@
+F:\mphasis\day4\assignments\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+F:\mphasis\day4\assignments\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+F:\mphasis\day4\assignments\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+F:\mphasis\day4\assignments\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+F:\mphasis\day4\assignments\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+F:\mphasis\day4\assignments\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+F:\mphasis\day4\assignments\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
